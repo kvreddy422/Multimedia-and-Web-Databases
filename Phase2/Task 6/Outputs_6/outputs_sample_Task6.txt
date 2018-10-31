@@ -1,0 +1,639 @@
+Euclidean
+K = 4
+----------------sv1-----------------
+angkor wat ===> 0.2991288916132637
+agra fort ===> 0.21821991317882772
+angel of the north ===> 0.2096927075527222
+colosseum ===> 0.20754343524860838
+chichen itza ===> 0.2042732423840644
+cologne cathedral ===> 0.2015207054279273
+cabrillo ===> 0.2009400244725901
+casa rosada ===> 0.19994259998762254
+chartres cathedral ===> 0.18933018335551197
+amiens cathedral ===> 0.1885731647602263
+cn tower ===> 0.1872981513697028
+ara pacis ===> 0.18459253249212246
+hearst castle ===> 0.18381473243153962
+christ the redeemer rio ===> 0.1834742005661454
+acropolis athens ===> 0.18023952417012068
+casa batllo ===> 0.17262731263310319
+arc de triomphe ===> 0.1718020678997956
+aztec ruins ===> 0.16863971599452568
+la madeleine ===> 0.16832218932607948
+montezuma castle ===> 0.166722229521141
+civic center san francisco ===> 0.1659734301710167
+pont alexandre iii ===> 0.16019969047914112
+big ben ===> 0.1547800184711903
+castillo de san marcos ===> 0.15438643700711607
+bok tower gardens ===> 0.1525788904717768
+albert memorial ===> 0.15196491776156854
+berlin cathedral ===> 0.1450474164354631
+altes museum ===> 0.14266750661535743
+brandenburg gate ===> 0.14172552589194998
+neues museum ===> 0.1411631884624739
+----------------sv2-----------------
+angkor wat ===> 0.8114390470399019
+neues museum ===> 0.19599917541458436
+brandenburg gate ===> 0.19363456487816919
+altes museum ===> 0.19075026982132057
+berlin cathedral ===> 0.18506563331432313
+albert memorial ===> 0.15273542234484605
+bok tower gardens ===> 0.15078157392271063
+castillo de san marcos ===> 0.1441699046734621
+big ben ===> 0.1426916857383403
+agra fort ===> 0.1290467663188105
+pont alexandre iii ===> 0.12304481751438995
+civic center san francisco ===> 0.10140293744134495
+montezuma castle ===> 0.09812302107181975
+la madeleine ===> 0.09261656528970755
+aztec ruins ===> 0.09059006620042921
+angel of the north ===> 0.08509035026082204
+arc de triomphe ===> 0.07974903528132539
+casa batllo ===> 0.07583199341060769
+colosseum ===> 0.07509097126334756
+chichen itza ===> 0.059148140418415845
+acropolis athens ===> 0.04578038603775303
+cologne cathedral ===> 0.04558342407215018
+cabrillo ===> 0.043580735506353066
+casa rosada ===> 0.0387532476528586
+christ the redeemer rio ===> 0.03261259651269447
+hearst castle ===> 0.031357329888593785
+ara pacis ===> 0.027300123030485852
+cn tower ===> 0.016722666968941893
+amiens cathedral ===> 0.011250153761819412
+chartres cathedral ===> 0.007960864176096724
+----------------sv3-----------------
+agra fort ===> 0.5223685485447771
+angkor wat ===> 0.48557259856447893
+angel of the north ===> 0.2919541917332503
+colosseum ===> 0.2562309764181558
+chichen itza ===> 0.20226957908847618
+neues museum ===> 0.18005802552448993
+brandenburg gate ===> 0.17697084590284878
+altes museum ===> 0.17510035620146241
+berlin cathedral ===> 0.1737886391834207
+cologne cathedral ===> 0.16387900384379864
+cabrillo ===> 0.16053593688155549
+casa rosada ===> 0.14906676419795553
+albert memorial ===> 0.12820927588189746
+bok tower gardens ===> 0.12672393326301173
+castillo de san marcos ===> 0.11853266893021229
+big ben ===> 0.11816537239087994
+pont alexandre iii ===> 0.09798703156584451
+civic center san francisco ===> 0.07436381560931096
+montezuma castle ===> 0.0687510961457861
+la madeleine ===> 0.06489890827989926
+aztec ruins ===> 0.06083297300368539
+chartres cathedral ===> 0.05230398553094955
+arc de triomphe ===> 0.05058173471602564
+amiens cathedral ===> 0.046564111770744265
+casa batllo ===> 0.0445913889070913
+cn tower ===> 0.03662828217697477
+ara pacis ===> 0.02465500831341401
+hearst castle ===> 0.014048560363146195
+christ the redeemer rio ===> 0.012604149989293536
+acropolis athens ===> 0.007599128507461666
+----------------sv4-----------------
+agra fort ===> 0.785231421473717
+angel of the north ===> 0.44247757978879454
+colosseum ===> 0.28990661154873676
+chichen itza ===> 0.17256880848812742
+cologne cathedral ===> 0.12321178798545875
+cabrillo ===> 0.11629628661405794
+casa rosada ===> 0.10365500864380893
+angkor wat ===> 0.08145192946945409
+neues museum ===> 0.0618240994141423
+brandenburg gate ===> 0.06035917454246298
+altes museum ===> 0.06021878415150722
+berlin cathedral ===> 0.060060472897340844
+castillo de san marcos ===> 0.04459711989552262
+bok tower gardens ===> 0.042715285770369704
+albert memorial ===> 0.04263053154377196
+big ben ===> 0.0395878946509898
+pont alexandre iii ===> 0.03152102007313841
+chartres cathedral ===> 0.030006780409716605
+amiens cathedral ===> 0.027076274358752567
+civic center san francisco ===> 0.023997704933167722
+ara pacis ===> 0.022435057258164387
+la madeleine ===> 0.021107223094770013
+cn tower ===> 0.020363742910674165
+montezuma castle ===> 0.01814392822919351
+aztec ruins ===> 0.017740776980935374
+casa batllo ===> 0.01402441422654939
+arc de triomphe ===> 0.014019005384029865
+hearst castle ===> 0.010542748192423235
+christ the redeemer rio ===> 0.010125949587796168
+acropolis athens ===> 0.000428170394185995
+
+Cosine
+
+----------------sv1-----------------
+berlin cathedral ===> 0.5547871504354802
+neues museum ===> 0.49972152337261494
+brandenburg gate ===> 0.47028259090609137
+altes museum ===> 0.467857612522783
+cologne cathedral ===> 0.037646056296084536
+arc de triomphe ===> 0.021249172837062364
+amiens cathedral ===> 0.009943423146327575
+pont alexandre iii ===> 0.009901052099670859
+casa rosada ===> 0.008229563699528469
+chartres cathedral ===> 0.008042303021093258
+acropolis athens ===> 0.00761465467455034
+angel of the north ===> 0.006198340943902597
+albert memorial ===> 0.0061843885142420785
+la madeleine ===> 0.00544462076535773
+christ the redeemer rio ===> 0.005164077256433188
+civic center san francisco ===> 0.0041367852641260895
+big ben ===> 0.0028069966552240785
+colosseum ===> 0.002108009790303543
+ara pacis ===> 0.0020651150527433754
+castillo de san marcos ===> 0.0019394739678113395
+casa batllo ===> 0.001618792270983111
+aztec ruins ===> 0.000967097367317194
+cn tower ===> 0.0009073988883817689
+chichen itza ===> 0.0008263207426968763
+montezuma castle ===> 0.0007668209431769563
+cabrillo ===> 0.0005793968884125328
+angkor wat ===> 0.0005589630836372266
+hearst castle ===> 0.0004290080414336399
+bok tower gardens ===> 0.00041434593539003197
+agra fort ===> 0.00013952482669232769
+----------------sv2-----------------
+castillo de san marcos ===> 0.5309927826555231
+bok tower gardens ===> 0.49677768889313223
+pont alexandre iii ===> 0.34181049376541506
+arc de triomphe ===> 0.32993941487084677
+angel of the north ===> 0.2085883774399715
+albert memorial ===> 0.18966916122321387
+casa rosada ===> 0.18769068109872836
+civic center san francisco ===> 0.14943070752567417
+la madeleine ===> 0.14603367995412292
+big ben ===> 0.1456845048739074
+montezuma castle ===> 0.12465136707076624
+hearst castle ===> 0.10216739603308603
+christ the redeemer rio ===> 0.08970899264372503
+agra fort ===> 0.07894985740187899
+casa batllo ===> 0.0733332662949452
+amiens cathedral ===> 0.07082374459744673
+cabrillo ===> 0.062205359963979065
+aztec ruins ===> 0.050530921301134867
+chichen itza ===> 0.05015851762174045
+chartres cathedral ===> 0.04547060229393696
+colosseum ===> 0.033215294907034294
+acropolis athens ===> 0.028182024735598575
+cn tower ===> 0.026955725286178643
+ara pacis ===> 0.024765264980719737
+cologne cathedral ===> 0.02224195760330987
+berlin cathedral ===> 0.013927765304671096
+neues museum ===> 0.012343592131543603
+angkor wat ===> 0.011121335859394177
+altes museum ===> 0.009611750829884469
+brandenburg gate ===> 0.004686139929663845
+----------------sv3-----------------
+bok tower gardens ===> 0.47251012422200606
+castillo de san marcos ===> 0.4573867481094618
+pont alexandre iii ===> 0.4461093299515761
+arc de triomphe ===> 0.4130728483039273
+albert memorial ===> 0.22628389691291806
+la madeleine ===> 0.17642069181301018
+big ben ===> 0.16842003848943185
+angel of the north ===> 0.15346227386302577
+casa rosada ===> 0.15316342472991457
+amiens cathedral ===> 0.09825804062370525
+christ the redeemer rio ===> 0.08262902996579422
+agra fort ===> 0.07152623443567793
+casa batllo ===> 0.07107200249818081
+chartres cathedral ===> 0.06623910281442258
+montezuma castle ===> 0.05568669719722252
+colosseum ===> 0.038262007183431396
+ara pacis ===> 0.029292499902821262
+cologne cathedral ===> 0.02824206851042372
+acropolis athens ===> 0.026667177649151476
+aztec ruins ===> 0.02590556548122344
+civic center san francisco ===> 0.017270875308515916
+cabrillo ===> 0.01443249640875166
+cn tower ===> 0.01426795171934689
+neues museum ===> 0.014024152761036038
+berlin cathedral ===> 0.014020749310488356
+hearst castle ===> 0.012729259641262508
+chichen itza ===> 0.011069835217291782
+altes museum ===> 0.00972361069417288
+angkor wat ===> 0.007293692972590643
+brandenburg gate ===> 0.0030791934613999816
+----------------sv4-----------------
+montezuma castle ===> 0.4928610635527106
+hearst castle ===> 0.46827264467502017
+arc de triomphe ===> 0.27131684477266416
+civic center san francisco ===> 0.26920916259208444
+angel of the north ===> 0.25187613619060184
+pont alexandre iii ===> 0.22805313361711047
+big ben ===> 0.2204127455343268
+aztec ruins ===> 0.21161426595178984
+albert memorial ===> 0.2073567599032753
+cabrillo ===> 0.19973962090428665
+chichen itza ===> 0.16982884058981973
+la madeleine ===> 0.1348861729999255
+bok tower gardens ===> 0.10677828481901294
+casa rosada ===> 0.09530401465976839
+colosseum ===> 0.08251779060913307
+castillo de san marcos ===> 0.07744495406684383
+acropolis athens ===> 0.07376461426373353
+amiens cathedral ===> 0.06850905175068944
+ara pacis ===> 0.06301587861508079
+chartres cathedral ===> 0.04755355040487104
+casa batllo ===> 0.04073196987702882
+agra fort ===> 0.021824377058783095
+angkor wat ===> 0.02107062311928265
+cologne cathedral ===> 0.020882689371145166
+christ the redeemer rio ===> 0.014027969997655642
+brandenburg gate ===> 0.006807446702631212
+berlin cathedral ===> 0.006016602623854506
+altes museum ===> 0.004599010229832667
+cn tower ===> 0.0021871477322031683
+neues museum ===> 0.001455593168620567
+
+.........................................................................
+
+K = 6 
+
+Euclidean
+
+----------------sv1-----------------
+angkor wat ===> 0.2991288916132637
+agra fort ===> 0.21821991317882772
+angel of the north ===> 0.2096927075527222
+colosseum ===> 0.20754343524860838
+chichen itza ===> 0.2042732423840644
+cologne cathedral ===> 0.2015207054279273
+cabrillo ===> 0.2009400244725901
+casa rosada ===> 0.19994259998762254
+chartres cathedral ===> 0.18933018335551197
+amiens cathedral ===> 0.1885731647602263
+cn tower ===> 0.1872981513697028
+ara pacis ===> 0.18459253249212246
+hearst castle ===> 0.18381473243153962
+christ the redeemer rio ===> 0.1834742005661454
+acropolis athens ===> 0.18023952417012068
+casa batllo ===> 0.17262731263310319
+arc de triomphe ===> 0.1718020678997956
+aztec ruins ===> 0.16863971599452568
+la madeleine ===> 0.16832218932607948
+montezuma castle ===> 0.166722229521141
+civic center san francisco ===> 0.1659734301710167
+pont alexandre iii ===> 0.16019969047914112
+big ben ===> 0.1547800184711903
+castillo de san marcos ===> 0.15438643700711607
+bok tower gardens ===> 0.1525788904717768
+albert memorial ===> 0.15196491776156854
+berlin cathedral ===> 0.1450474164354631
+altes museum ===> 0.14266750661535743
+brandenburg gate ===> 0.14172552589194998
+neues museum ===> 0.1411631884624739
+----------------sv2-----------------
+angkor wat ===> 0.8114390470399019
+neues museum ===> 0.19599917541458436
+brandenburg gate ===> 0.19363456487816919
+altes museum ===> 0.19075026982132057
+berlin cathedral ===> 0.18506563331432313
+albert memorial ===> 0.15273542234484605
+bok tower gardens ===> 0.15078157392271063
+castillo de san marcos ===> 0.1441699046734621
+big ben ===> 0.1426916857383403
+agra fort ===> 0.1290467663188105
+pont alexandre iii ===> 0.12304481751438995
+civic center san francisco ===> 0.10140293744134495
+montezuma castle ===> 0.09812302107181975
+la madeleine ===> 0.09261656528970755
+aztec ruins ===> 0.09059006620042921
+angel of the north ===> 0.08509035026082204
+arc de triomphe ===> 0.07974903528132539
+casa batllo ===> 0.07583199341060769
+colosseum ===> 0.07509097126334756
+chichen itza ===> 0.059148140418415845
+acropolis athens ===> 0.04578038603775303
+cologne cathedral ===> 0.04558342407215018
+cabrillo ===> 0.043580735506353066
+casa rosada ===> 0.0387532476528586
+christ the redeemer rio ===> 0.03261259651269447
+hearst castle ===> 0.031357329888593785
+ara pacis ===> 0.027300123030485852
+cn tower ===> 0.016722666968941893
+amiens cathedral ===> 0.011250153761819412
+chartres cathedral ===> 0.007960864176096724
+----------------sv3-----------------
+agra fort ===> 0.5223685485447771
+angkor wat ===> 0.48557259856447893
+angel of the north ===> 0.2919541917332503
+colosseum ===> 0.2562309764181558
+chichen itza ===> 0.20226957908847618
+neues museum ===> 0.18005802552448993
+brandenburg gate ===> 0.17697084590284878
+altes museum ===> 0.17510035620146241
+berlin cathedral ===> 0.1737886391834207
+cologne cathedral ===> 0.16387900384379864
+cabrillo ===> 0.16053593688155549
+casa rosada ===> 0.14906676419795553
+albert memorial ===> 0.12820927588189746
+bok tower gardens ===> 0.12672393326301173
+castillo de san marcos ===> 0.11853266893021229
+big ben ===> 0.11816537239087994
+pont alexandre iii ===> 0.09798703156584451
+civic center san francisco ===> 0.07436381560931096
+montezuma castle ===> 0.0687510961457861
+la madeleine ===> 0.06489890827989926
+aztec ruins ===> 0.06083297300368539
+chartres cathedral ===> 0.05230398553094955
+arc de triomphe ===> 0.05058173471602564
+amiens cathedral ===> 0.046564111770744265
+casa batllo ===> 0.0445913889070913
+cn tower ===> 0.03662828217697477
+ara pacis ===> 0.02465500831341401
+hearst castle ===> 0.014048560363146195
+christ the redeemer rio ===> 0.012604149989293536
+acropolis athens ===> 0.007599128507461666
+----------------sv4-----------------
+agra fort ===> 0.785231421473717
+angel of the north ===> 0.44247757978879454
+colosseum ===> 0.28990661154873676
+chichen itza ===> 0.17256880848812742
+cologne cathedral ===> 0.12321178798545875
+cabrillo ===> 0.11629628661405794
+casa rosada ===> 0.10365500864380893
+angkor wat ===> 0.08145192946945409
+neues museum ===> 0.0618240994141423
+brandenburg gate ===> 0.06035917454246298
+altes museum ===> 0.06021878415150722
+berlin cathedral ===> 0.060060472897340844
+castillo de san marcos ===> 0.04459711989552262
+bok tower gardens ===> 0.042715285770369704
+albert memorial ===> 0.04263053154377196
+big ben ===> 0.0395878946509898
+pont alexandre iii ===> 0.03152102007313841
+chartres cathedral ===> 0.030006780409716605
+amiens cathedral ===> 0.027076274358752567
+civic center san francisco ===> 0.023997704933167722
+ara pacis ===> 0.022435057258164387
+la madeleine ===> 0.021107223094770013
+cn tower ===> 0.020363742910674165
+montezuma castle ===> 0.01814392822919351
+aztec ruins ===> 0.017740776980935374
+casa batllo ===> 0.01402441422654939
+arc de triomphe ===> 0.014019005384029865
+hearst castle ===> 0.010542748192423235
+christ the redeemer rio ===> 0.010125949587796168
+acropolis athens ===> 0.000428170394185995
+----------------sv5-----------------
+angel of the north ===> 0.7334234868879844
+colosseum ===> 0.6424886533103679
+chichen itza ===> 0.14756465737471464
+agra fort ===> 0.09987264554851001
+cabrillo ===> 0.06807995883296408
+cologne cathedral ===> 0.06582626536059749
+casa rosada ===> 0.04728736320758493
+ara pacis ===> 0.03585041075046569
+angkor wat ===> 0.0250701687314126
+neues museum ===> 0.02188300273904851
+brandenburg gate ===> 0.021793777579462187
+berlin cathedral ===> 0.02136543357284644
+altes museum ===> 0.021157192960211443
+montezuma castle ===> 0.02008219801931417
+albert memorial ===> 0.01670576345482173
+bok tower gardens ===> 0.016127251868880157
+chartres cathedral ===> 0.01547019652813203
+pont alexandre iii ===> 0.015400367709307658
+castillo de san marcos ===> 0.015122494343424515
+big ben ===> 0.01473228628444255
+amiens cathedral ===> 0.01352529716904445
+cn tower ===> 0.012096930731094122
+civic center san francisco ===> 0.0102473721611078
+arc de triomphe ===> 0.010193998468667975
+la madeleine ===> 0.008930340933149015
+hearst castle ===> 0.006343191349294439
+christ the redeemer rio ===> 0.004469519231360308
+casa batllo ===> 0.00355927183511524
+acropolis athens ===> 0.003228453841005028
+aztec ruins ===> 0.0025923276196563386
+----------------sv6-----------------
+chichen itza ===> 0.6981125185553139
+colosseum ===> 0.5626442623257513
+angel of the north ===> 0.2840036564899567
+cologne cathedral ===> 0.19549351149273014
+cabrillo ===> 0.179912231842267
+casa rosada ===> 0.13933475858386532
+agra fort ===> 0.11419508128292298
+angkor wat ===> 0.03741901787892217
+neues museum ===> 0.035638476101497465
+brandenburg gate ===> 0.035250448176380636
+altes museum ===> 0.03472394463023856
+berlin cathedral ===> 0.033921391528735946
+chartres cathedral ===> 0.0292430848468785
+amiens cathedral ===> 0.026106960498564535
+albert memorial ===> 0.02575643138307121
+bok tower gardens ===> 0.025288476563731038
+castillo de san marcos ===> 0.023364606124809634
+big ben ===> 0.023220825112951766
+pont alexandre iii ===> 0.020865640163963015
+cn tower ===> 0.01868865497541497
+montezuma castle ===> 0.018609621440524037
+ara pacis ===> 0.017532573433743488
+civic center san francisco ===> 0.014077200383466458
+la madeleine ===> 0.012381431811589514
+arc de triomphe ===> 0.012086462543456035
+christ the redeemer rio ===> 0.01043792673117716
+hearst castle ===> 0.009336915134277715
+casa batllo ===> 0.0052196091201745995
+aztec ruins ===> 0.004239169389321208
+acropolis athens ===> 0.00041825418701979533
+
+.....................
+
+Cosine
+
+K =6
+
+----------------sv1-----------------
+berlin cathedral ===> 0.5547871504354802
+neues museum ===> 0.49972152337261494
+brandenburg gate ===> 0.47028259090609137
+altes museum ===> 0.467857612522783
+cologne cathedral ===> 0.037646056296084536
+arc de triomphe ===> 0.021249172837062364
+amiens cathedral ===> 0.009943423146327575
+pont alexandre iii ===> 0.009901052099670859
+casa rosada ===> 0.008229563699528469
+chartres cathedral ===> 0.008042303021093258
+acropolis athens ===> 0.00761465467455034
+angel of the north ===> 0.006198340943902597
+albert memorial ===> 0.0061843885142420785
+la madeleine ===> 0.00544462076535773
+christ the redeemer rio ===> 0.005164077256433188
+civic center san francisco ===> 0.0041367852641260895
+big ben ===> 0.0028069966552240785
+colosseum ===> 0.002108009790303543
+ara pacis ===> 0.0020651150527433754
+castillo de san marcos ===> 0.0019394739678113395
+casa batllo ===> 0.001618792270983111
+aztec ruins ===> 0.000967097367317194
+cn tower ===> 0.0009073988883817689
+chichen itza ===> 0.0008263207426968763
+montezuma castle ===> 0.0007668209431769563
+cabrillo ===> 0.0005793968884125328
+angkor wat ===> 0.0005589630836372266
+hearst castle ===> 0.0004290080414336399
+bok tower gardens ===> 0.00041434593539003197
+agra fort ===> 0.00013952482669232769
+----------------sv2-----------------
+castillo de san marcos ===> 0.5309927826555231
+bok tower gardens ===> 0.49677768889313223
+pont alexandre iii ===> 0.34181049376541506
+arc de triomphe ===> 0.32993941487084677
+angel of the north ===> 0.2085883774399715
+albert memorial ===> 0.18966916122321387
+casa rosada ===> 0.18769068109872836
+civic center san francisco ===> 0.14943070752567417
+la madeleine ===> 0.14603367995412292
+big ben ===> 0.1456845048739074
+montezuma castle ===> 0.12465136707076624
+hearst castle ===> 0.10216739603308603
+christ the redeemer rio ===> 0.08970899264372503
+agra fort ===> 0.07894985740187899
+casa batllo ===> 0.0733332662949452
+amiens cathedral ===> 0.07082374459744673
+cabrillo ===> 0.062205359963979065
+aztec ruins ===> 0.050530921301134867
+chichen itza ===> 0.05015851762174045
+chartres cathedral ===> 0.04547060229393696
+colosseum ===> 0.033215294907034294
+acropolis athens ===> 0.028182024735598575
+cn tower ===> 0.026955725286178643
+ara pacis ===> 0.024765264980719737
+cologne cathedral ===> 0.02224195760330987
+berlin cathedral ===> 0.013927765304671096
+neues museum ===> 0.012343592131543603
+angkor wat ===> 0.011121335859394177
+altes museum ===> 0.009611750829884469
+brandenburg gate ===> 0.004686139929663845
+----------------sv3-----------------
+bok tower gardens ===> 0.47251012422200606
+castillo de san marcos ===> 0.4573867481094618
+pont alexandre iii ===> 0.4461093299515761
+arc de triomphe ===> 0.4130728483039273
+albert memorial ===> 0.22628389691291806
+la madeleine ===> 0.17642069181301018
+big ben ===> 0.16842003848943185
+angel of the north ===> 0.15346227386302577
+casa rosada ===> 0.15316342472991457
+amiens cathedral ===> 0.09825804062370525
+christ the redeemer rio ===> 0.08262902996579422
+agra fort ===> 0.07152623443567793
+casa batllo ===> 0.07107200249818081
+chartres cathedral ===> 0.06623910281442258
+montezuma castle ===> 0.05568669719722252
+colosseum ===> 0.038262007183431396
+ara pacis ===> 0.029292499902821262
+cologne cathedral ===> 0.02824206851042372
+acropolis athens ===> 0.026667177649151476
+aztec ruins ===> 0.02590556548122344
+civic center san francisco ===> 0.017270875308515916
+cabrillo ===> 0.01443249640875166
+cn tower ===> 0.01426795171934689
+neues museum ===> 0.014024152761036038
+berlin cathedral ===> 0.014020749310488356
+hearst castle ===> 0.012729259641262508
+chichen itza ===> 0.011069835217291782
+altes museum ===> 0.00972361069417288
+angkor wat ===> 0.007293692972590643
+brandenburg gate ===> 0.0030791934613999816
+----------------sv4-----------------
+montezuma castle ===> 0.4928610635527106
+hearst castle ===> 0.46827264467502017
+arc de triomphe ===> 0.27131684477266416
+civic center san francisco ===> 0.26920916259208444
+angel of the north ===> 0.25187613619060184
+pont alexandre iii ===> 0.22805313361711047
+big ben ===> 0.2204127455343268
+aztec ruins ===> 0.21161426595178984
+albert memorial ===> 0.2073567599032753
+cabrillo ===> 0.19973962090428665
+chichen itza ===> 0.16982884058981973
+la madeleine ===> 0.1348861729999255
+bok tower gardens ===> 0.10677828481901294
+casa rosada ===> 0.09530401465976839
+colosseum ===> 0.08251779060913307
+castillo de san marcos ===> 0.07744495406684383
+acropolis athens ===> 0.07376461426373353
+amiens cathedral ===> 0.06850905175068944
+ara pacis ===> 0.06301587861508079
+chartres cathedral ===> 0.04755355040487104
+casa batllo ===> 0.04073196987702882
+agra fort ===> 0.021824377058783095
+angkor wat ===> 0.02107062311928265
+cologne cathedral ===> 0.020882689371145166
+christ the redeemer rio ===> 0.014027969997655642
+brandenburg gate ===> 0.006807446702631212
+berlin cathedral ===> 0.006016602623854506
+altes museum ===> 0.004599010229832667
+cn tower ===> 0.0021871477322031683
+neues museum ===> 0.001455593168620567
+----------------sv5-----------------
+big ben ===> 0.6071815563714256
+albert memorial ===> 0.5884238938565507
+montezuma castle ===> 0.2536410120948805
+hearst castle ===> 0.2158679215886566
+aztec ruins ===> 0.18709272918234038
+chichen itza ===> 0.17036344876316278
+arc de triomphe ===> 0.1671150535431324
+casa rosada ===> 0.1507656446699541
+angel of the north ===> 0.10950242748978564
+casa batllo ===> 0.10924561497901485
+la madeleine ===> 0.1061523955618284
+colosseum ===> 0.08100826018603668
+ara pacis ===> 0.07047750684374482
+pont alexandre iii ===> 0.06730656900203075
+bok tower gardens ===> 0.057720219429780284
+cabrillo ===> 0.03718664579574277
+amiens cathedral ===> 0.03306367468537755
+chartres cathedral ===> 0.028525459397145174
+civic center san francisco ===> 0.02059678311738419
+cn tower ===> 0.017410347053832948
+castillo de san marcos ===> 0.01738023671410166
+cologne cathedral ===> 0.01619871655961034
+angkor wat ===> 0.01147481383507692
+christ the redeemer rio ===> 0.007864312177576889
+berlin cathedral ===> 0.00654235618107335
+brandenburg gate ===> 0.005498123168188596
+altes museum ===> 0.004914673713448262
+neues museum ===> 0.0028600449179437826
+acropolis athens ===> 0.0020461417433465267
+agra fort ===> 0.0006814095254299678
+----------------sv6-----------------
+chichen itza ===> 0.49373923457995494
+aztec ruins ===> 0.49238245599811936
+colosseum ===> 0.41698094258438817
+ara pacis ===> 0.39888597763456635
+montezuma castle ===> 0.24245185903853725
+hearst castle ===> 0.24083051479706136
+angel of the north ===> 0.14535393302009186
+big ben ===> 0.0989541864562537
+civic center san francisco ===> 0.09186620607595584
+albert memorial ===> 0.07449826412035136
+acropolis athens ===> 0.06254872845495098
+cabrillo ===> 0.05593999572987625
+casa rosada ===> 0.04420987139388509
+casa batllo ===> 0.043541432844297165
+pont alexandre iii ===> 0.043199335921995805
+christ the redeemer rio ===> 0.04244680263756278
+angkor wat ===> 0.03969147499319256
+arc de triomphe ===> 0.03723146097224456
+la madeleine ===> 0.018096171521193652
+amiens cathedral ===> 0.017369219090846898
+bok tower gardens ===> 0.014854119866651347
+cologne cathedral ===> 0.014606951208118541
+cn tower ===> 0.012908230187095375
+castillo de san marcos ===> 0.011562818333206035
+chartres cathedral ===> 0.010376321612186473
+agra fort ===> 0.009668661966816955
+berlin cathedral ===> 0.003258457923291977
+altes museum ===> 0.002988168760604093
+brandenburg gate ===> 0.0009573724908466669
+neues museum ===> 0.0001340449875912586

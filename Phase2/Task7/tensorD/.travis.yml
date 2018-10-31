@@ -1,0 +1,32 @@
+language: python
+python:
+  - "3.6"
+
+dist: trusty
+sudo: false
+
+cache: pip
+
+install:
+  - pip install -r requirements.txt
+  - pip install coveralls
+  - pip install coverage
+
+# command to run tests
+script:
+  coverage run tensorD/test_bench.py
+after_success:
+  coveralls
+
+branches:
+#  - master
+#  - build
+
+notifications:
+  email:
+    recipients:
+      - jinmian.y@gmail.com
+      - zszx0259@me.com
+      - hhabc1995@qq.com
+    on_success: never
+    on_failure: always    # send a notification when build fail

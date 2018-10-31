@@ -1,0 +1,55 @@
+import xml
+import csv
+import xml.etree.ElementTree as ET
+loc_id = input("LocID: ")
+model = input("Model: ")
+k = input("k: ")
+flag=0
+givendict={}
+elemdict={}
+op = ""
+def toFile(listGot):
+    global op
+    str1 = ' '.join(listGot)
+
+    data = str1.split(' ')
+    op += loc_name + ","
+    for index in range(len(data)-1):
+        if((index+1)%4==0):
+            op +=  str(data[index]).replace("\"", "")
+        else:
+            op +=  str(data[index]).replace("\"", "") + ","
+        if(index!=len(data)-2):
+            if((index+1)%4==0):
+                op+= "\n"
+                op += loc_name + ","
+
+
+doc = ET.parse("../devset_topics.xml")
+
+topicElem = doc.getroot()
+locIdNameDict={}
+for topic in topicElem:
+    locIdNameDict[topic[0].text]= topic[1].text.replace("_"," ")
+with open('../devset_textTermsPerPOI.wFolderNames.txt', encoding="utf8") as f:
+    reader = csv.reader(f, delimiter = ' ', skipinitialspace=False)
+    lineData = list()
+    cols = next(reader)
+
+    for line in reader:
+        loc_name=" ".join(line[0].split("_"))
+        startIndex=len(line[0].split("_"))
+        newIndex=startIndex*2
+
+        if(locIdNameDict[loc_id]==loc_name):
+            given_loc=line[newIndex-startIndex+1:]
+            givendict[loc_id]=given_loc
+            toFile(list(givendict.values())[0])
+            op+= "\n"
+        else:
+            elemdict[loc_name]=line[newIndex-startIndex+1:]
+            toFile(list(elemdict.values())[elemdict.values().__len__()-1])
+            op+= "\n"
+print('hi')
+with open("../entity_id_term_metrics_loc_new.csv", 'w', encoding="utf8") as f:
+    f.write(op)

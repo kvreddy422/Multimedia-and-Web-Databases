@@ -1,0 +1,108 @@
+----------------sv1-----------------
+el angel mexico ===> -0.4621200827456708
+angkor wat ===> -0.2573160583760188
+kronborg castle ===> -0.22585181031509297
+angel of the north ===> -0.17440171454458234
+ara pacis ===> -0.17407932222760508
+iguazu falls ===> -0.17169378350751682
+jokhang ===> -0.16742708541933057
+la mezquita ===> -0.1673787482677329
+jantar mantar jaipur ===> -0.1655670601236027
+hoover dam ===> -0.163089894591787
+guggenheim museum bilbao ===> -0.15505187212364774
+doges palace ===> -0.15299984705702888
+ellora caves ===> -0.15041384956499743
+acropolis athens ===> -0.1497467532079922
+humayun tomb ===> -0.14918407275369466
+hermitage museum saint petersburg ===> -0.14762592378227327
+iolani palace ===> -0.14449377265058527
+aztec ruins ===> -0.14045563048887644
+dam square ===> -0.13922004835751722
+amiens cathedral ===> -0.13544654546179602
+altes museum ===> -0.13443457536338163
+grand palais ===> -0.1335664703515668
+grande arche paris ===> -0.13288054177972508
+arc de triomphe ===> -0.1320809061671468
+holocaust memorial ===> -0.1319088316279034
+hagia sophia istanbul ===> -0.1311651078057348
+harrods london ===> -0.13053244345992515
+golden gate bridge ===> -0.1304529056848647
+grand central terminal ===> -0.1303188036367123
+agra fort ===> -0.1296501532401183
+jardin du luxembourg ===> -0.12962977469656248
+houses of parliament ===> -0.12893888675643805
+eiffel tower ===> -0.12693622899034568
+albert memorial ===> -0.12685108972612644
+hms belfast ===> -0.12241101418932895
+----------------sv2-----------------
+el angel mexico ===> -0.7979892638105897
+angkor wat ===> -0.1541208287594207
+hms belfast ===> 0.14131950266673043
+albert memorial ===> 0.13208233325755503
+eiffel tower ===> 0.13190059187741643
+houses of parliament ===> 0.1276600178395277
+jardin du luxembourg ===> 0.12617335913460834
+agra fort ===> 0.1261035528281329
+grand central terminal ===> 0.12474274570461241
+golden gate bridge ===> 0.12443932206929251
+harrods london ===> 0.12431828173389413
+hagia sophia istanbul ===> 0.12295513093096008
+holocaust memorial ===> 0.12141620735067213
+arc de triomphe ===> 0.12103195687781025
+grande arche paris ===> 0.11936876125141634
+grand palais ===> 0.11782791873874665
+altes museum ===> 0.11609329569844622
+amiens cathedral ===> 0.1139432501621517
+dam square ===> 0.1059588008096359
+aztec ruins ===> 0.10332951786070707
+iolani palace ===> 0.09492062713216026
+hermitage museum saint petersburg ===> 0.088328357346123
+humayun tomb ===> 0.0850868568204079
+acropolis athens ===> 0.08384903133576761
+ellora caves ===> 0.08246192490252834
+kronborg castle ===> -0.08089935355980982
+doges palace ===> 0.07703247928922476
+guggenheim museum bilbao ===> 0.07262743458741494
+hoover dam ===> 0.05568673118813996
+jantar mantar jaipur ===> 0.05051497802180967
+jokhang ===> 0.04653792238690632
+la mezquita ===> 0.045814813112794305
+iguazu falls ===> 0.03750776148056807
+ara pacis ===> 0.03243911897147608
+angel of the north ===> 0.031735040077499305
+----------------sv3-----------------
+angkor wat ===> 0.7944043779011483
+el angel mexico ===> -0.3713943808285219
+kronborg castle ===> 0.34544638937887057
+hms belfast ===> -0.09706682773818583
+albert memorial ===> -0.08366140257820762
+eiffel tower ===> -0.08344453982978337
+houses of parliament ===> -0.07715015075153983
+jardin du luxembourg ===> -0.07501293941406424
+agra fort ===> -0.07474609740105734
+grand central terminal ===> -0.07282485945699609
+golden gate bridge ===> -0.0724043653216523
+harrods london ===> -0.07220360070669454
+angel of the north ===> 0.0719402646963659
+ara pacis ===> 0.07091092667681495
+hagia sophia istanbul ===> -0.06994004960978127
+holocaust memorial ===> -0.06785162253518855
+arc de triomphe ===> -0.06750820460158363
+grande arche paris ===> -0.06490010452412404
+grand palais ===> -0.06294634623013515
+iguazu falls ===> 0.062261177129802336
+altes museum ===> -0.059913298099432244
+amiens cathedral ===> -0.056811070332915325
+jokhang ===> 0.04749706102208293
+la mezquita ===> 0.045182845197153085
+dam square ===> -0.044526857443861395
+aztec ruins ===> -0.041113347553405295
+jantar mantar jaipur ===> 0.040731515831703834
+hoover dam ===> 0.03201232700418695
+iolani palace ===> -0.02830002979844296
+hermitage museum saint petersburg ===> -0.01824586390829128
+humayun tomb ===> -0.013509845642439313
+acropolis athens ===> -0.011638923999601135
+ellora caves ===> -0.009190118751527063
+guggenheim museum bilbao ===> 0.005391674750393075
+doges palace ===> -0.0011233671643635366
