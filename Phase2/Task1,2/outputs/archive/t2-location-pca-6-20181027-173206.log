@@ -1,0 +1,8 @@
+1)neues_museum(id:6)===>0.0
+2)brandenburg_gate(id:20)===>342.30503748557805
+3)altes_museum(id:12)===>342.69792410983035
+4)berlin_cathedral(id:18)===>352.64255302231976
+5)albert_memorial(id:11)===>457.7359478239424
+6)bok_tower_gardens(id:19)===>461.8845012023123
+-------------------------------------------------------
+Total execution time 0.16574931144714355 sec

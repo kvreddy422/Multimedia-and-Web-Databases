@@ -1,0 +1,26 @@
+-------------start-pca---------------------
+1)pont_alexandre_iii(id:5)===>0.0
+2)big_ben(id:2)===>213.1424478421522
+3)castillo_de_san_marcos(id:24)===>218.0775775006641
+4)bok_tower_gardens(id:19)===>229.44039737294702
+5)albert_memorial(id:11)===>231.93187385103982
+6)berlin_cathedral(id:18)===>240.12907555651825
+-------------end-pca---------------------
+-------------start-svd---------------------
+1)pont_alexandre_iii(id:5)===>0.0
+2)brandenburg_gate(id:20)===>0.1036501223637479
+3)altes_museum(id:12)===>0.10431835219418877
+4)albert_memorial(id:11)===>0.1048594286280559
+5)neues_museum(id:6)===>0.10566457937819954
+6)berlin_cathedral(id:18)===>0.10586507279123243
+-------------end-svd---------------------
+-------------start-lda---------------------
+1)pont_alexandre_iii(id:5)===>0.0
+2)neues_museum(id:6)===>32.57421662083596
+3)castillo_de_san_marcos(id:24)===>34.20032657476165
+4)big_ben(id:2)===>34.254260255543194
+5)bok_tower_gardens(id:19)===>36.65381301236687
+6)civic_center_san_francisco(id:28)===>36.808410798291426
+-------------end-lda---------------------
+-------------------------------------------------------
+Total execution time 0.24 sec
