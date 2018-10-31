@@ -1,0 +1,231 @@
+
+For SVD decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			-0.00463300288779 (LBP3x3 - Feature Number: 134)
+			-0.005333867747 (LBP3x3 - Feature Number: 118)
+			-0.00537667197435 (LBP3x3 - Feature Number: 102)
+			-0.0059576823308 (LBP3x3 - Feature Number: 54)
+			-0.00604286187028 (LBP3x3 - Feature Number: 6)
+			-0.00620391203232 (LBP3x3 - Feature Number: 86)
+			-0.00621342416869 (LBP3x3 - Feature Number: 107)
+			-0.00643379817755 (LBP3x3 - Feature Number: 139)
+			-0.00658447588244 (LBP3x3 - Feature Number: 123)
+			-0.0067951739664 (LBP3x3 - Feature Number: 70)
+
+		Latent Semantic 2:
+			0.000119387343417 (LBP3x3 - Feature Number: 4)
+			0.000204696717205 (LBP3x3 - Feature Number: 57)
+			-0.000338947316391 (LBP3x3 - Feature Number: 68)
+			0.000776815325793 (LBP3x3 - Feature Number: 86)
+			0.000824256870517 (LBP3x3 - Feature Number: 109)
+			0.00120918354574 (LBP3x3 - Feature Number: 36)
+			0.0017212235886 (LBP3x3 - Feature Number: 54)
+			0.00188281089736 (LBP3x3 - Feature Number: 20)
+			-0.00209323963909 (LBP3x3 - Feature Number: 105)
+			-0.00232193550984 (LBP3x3 - Feature Number: 9)
+
+		Latent Semantic 3:
+			-0.000245541774762 (LBP3x3 - Feature Number: 107)
+			-0.000519799997164 (LBP3x3 - Feature Number: 102)
+			-0.000910752886782 (LBP3x3 - Feature Number: 91)
+			0.00139549370232 (LBP3x3 - Feature Number: 75)
+			-0.00215742450766 (LBP3x3 - Feature Number: 121)
+			0.00216376155214 (LBP3x3 - Feature Number: 70)
+			-0.00236869548095 (LBP3x3 - Feature Number: 100)
+			-0.00336017594064 (LBP3x3 - Feature Number: 86)
+			-0.00345296435101 (LBP3x3 - Feature Number: 125)
+			-0.00354375751707 (LBP3x3 - Feature Number: 27)
+
+		Latent Semantic 4:
+			-0.000240599422686 (LBP3x3 - Feature Number: 86)
+			-0.000365113014052 (LBP3x3 - Feature Number: 54)
+			-0.00102986469102 (LBP3x3 - Feature Number: 40)
+			-0.00201484095066 (LBP3x3 - Feature Number: 126)
+			-0.00205953174489 (LBP3x3 - Feature Number: 25)
+			0.00250608776332 (LBP3x3 - Feature Number: 16)
+			-0.00254868294628 (LBP3x3 - Feature Number: 8)
+			0.0028628030525 (LBP3x3 - Feature Number: 41)
+			0.00353872442762 (LBP3x3 - Feature Number: 116)
+			-0.00356004659419 (LBP3x3 - Feature Number: 48)
+
+		Latent Semantic 5:
+			-0.000612336684388 (LBP3x3 - Feature Number: 68)
+			-0.000721578028542 (LBP3x3 - Feature Number: 107)
+			-0.00100811563652 (LBP3x3 - Feature Number: 139)
+			0.00104183109932 (LBP3x3 - Feature Number: 115)
+			0.00205491377791 (LBP3x3 - Feature Number: 123)
+			-0.00227166318029 (LBP3x3 - Feature Number: 118)
+			0.00247234072043 (LBP3x3 - Feature Number: 100)
+			-0.00307842253762 (LBP3x3 - Feature Number: 84)
+			-0.00372972344143 (LBP3x3 - Feature Number: 20)
+			0.00413099793501 (LBP3x3 - Feature Number: 99)
+
+
+	PART 2: Finding 5 closest images to 7931080032 (hearst_castle) on model LBP3x3:
+		7931080032 (hearst_castle)  : 0.0
+		296027404 (bok_tower_gardens)  : 0.00298980089908
+		8155179911 (castillo_de_san_marcos)  : 0.00348774387716
+		4804572913 (berlin_cathedral)  : 0.00355555450925
+		4573468731 (angkor_wat)  : 0.00441636795585
+
+	PART 3:  5 closest Location to 7931080032 (hearst_castle)
+		chichen_itza : 0.0242221728078
+		arc_de_triomphe : 0.0249183041037
+		castillo_de_san_marcos : 0.0251397038626
+		pont_alexandre_iii : 0.0252162478437
+		ara_pacis : 0.0253457902906
+
+For PCA decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			0.00139382721824 (LBP3x3 - Feature Number: 6)
+			0.00165101160752 (LBP3x3 - Feature Number: 11)
+			0.00176125711274 (LBP3x3 - Feature Number: 22)
+			0.00232076547528 (LBP3x3 - Feature Number: 27)
+			0.00270420920592 (LBP3x3 - Feature Number: 38)
+			0.00284723776821 (LBP3x3 - Feature Number: 59)
+			0.00296253864455 (LBP3x3 - Feature Number: 75)
+			0.00300918509847 (LBP3x3 - Feature Number: 70)
+			0.00331304460147 (LBP3x3 - Feature Number: 54)
+			0.00357697577893 (LBP3x3 - Feature Number: 43)
+
+		Latent Semantic 2:
+			-5.98680888272e-05 (LBP3x3 - Feature Number: 107)
+			-0.000194465740436 (LBP3x3 - Feature Number: 102)
+			-0.000979953284848 (LBP3x3 - Feature Number: 75)
+			0.00116172166427 (LBP3x3 - Feature Number: 91)
+			0.00155384730243 (LBP3x3 - Feature Number: 120)
+			0.00192854644243 (LBP3x3 - Feature Number: 100)
+			-0.00204973154748 (LBP3x3 - Feature Number: 70)
+			0.00245117150755 (LBP3x3 - Feature Number: 121)
+			0.0031512589435 (LBP3x3 - Feature Number: 86)
+			0.00386465804892 (LBP3x3 - Feature Number: 125)
+
+		Latent Semantic 3:
+			0.000924070977592 (LBP3x3 - Feature Number: 86)
+			0.00096329283724 (LBP3x3 - Feature Number: 54)
+			0.00162808467041 (LBP3x3 - Feature Number: 96)
+			0.00180551257537 (LBP3x3 - Feature Number: 64)
+			0.00203868850663 (LBP3x3 - Feature Number: 25)
+			0.00217765488884 (LBP3x3 - Feature Number: 40)
+			-0.0029079953277 (LBP3x3 - Feature Number: 41)
+			-0.0035866992147 (LBP3x3 - Feature Number: 116)
+			0.00383867522465 (LBP3x3 - Feature Number: 126)
+			0.0038586711457 (LBP3x3 - Feature Number: 8)
+
+		Latent Semantic 4:
+			-0.000113767098227 (LBP3x3 - Feature Number: 123)
+			-0.000255045962686 (LBP3x3 - Feature Number: 20)
+			0.000326736985307 (LBP3x3 - Feature Number: 9)
+			-0.000525487332784 (LBP3x3 - Feature Number: 100)
+			-0.000642928739543 (LBP3x3 - Feature Number: 68)
+			0.000980811932513 (LBP3x3 - Feature Number: 57)
+			0.00109358590152 (LBP3x3 - Feature Number: 41)
+			0.00115761026408 (LBP3x3 - Feature Number: 36)
+			0.00158812100673 (LBP3x3 - Feature Number: 25)
+			0.00196282066747 (LBP3x3 - Feature Number: 67)
+
+		Latent Semantic 5:
+			-0.00043747212173 (LBP3x3 - Feature Number: 114)
+			0.000567132843625 (LBP3x3 - Feature Number: 59)
+			0.00061881467113 (LBP3x3 - Feature Number: 75)
+			0.000674095630983 (LBP3x3 - Feature Number: 125)
+			-0.000908120879158 (LBP3x3 - Feature Number: 68)
+			-0.000980860375902 (LBP3x3 - Feature Number: 70)
+			0.00102190617994 (LBP3x3 - Feature Number: 93)
+			0.00134638346633 (LBP3x3 - Feature Number: 140)
+			0.00146695725517 (LBP3x3 - Feature Number: 77)
+			-0.00150621189718 (LBP3x3 - Feature Number: 86)
+
+
+	PART 2: Finding 5 closest images to 7931080032 (hearst_castle)  on model LBP3x3:
+		7931080032 (hearst_castle) : 0.0
+		4804572913 (berlin_cathedral) : 0.0820481803473
+		2698106073 (pont_alexandre_iii) : 0.135239436535
+		3215991839 (civic_center_san_francisco) : 0.144510495695
+		4573468731 (angkor_wat) : 0.162274620138
+
+	PART 3:  5 closest Location to 7931080032 (hearst_castle)
+		ara_pacis : 0.93891166129
+		arc_de_triomphe : 0.960432668
+		casa_batllo : 1.00908122894
+		berlin_cathedral : 1.01246562217
+		christ_the_redeemer_rio : 1.01341921191
+
+For LDA decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			5.59459338495e-06 (LBP3x3 - Feature Number: 144)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 53)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 52)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 51)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 50)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 49)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 48)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 54)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 47)
+			5.59459338495e-06 (LBP3x3 - Feature Number: 45)
+
+		Latent Semantic 2:
+			5.53881602269e-06 (LBP3x3 - Feature Number: 144)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 40)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 41)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 42)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 43)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 44)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 45)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 46)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 47)
+			5.53881602269e-06 (LBP3x3 - Feature Number: 50)
+
+		Latent Semantic 3:
+			5.50830652624e-06 (LBP3x3 - Feature Number: 144)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 41)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 42)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 43)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 44)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 45)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 46)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 47)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 48)
+			5.50830652624e-06 (LBP3x3 - Feature Number: 50)
+
+		Latent Semantic 4:
+			5.48714909682e-06 (LBP3x3 - Feature Number: 144)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 52)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 51)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 50)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 49)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 48)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 47)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 53)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 46)
+			5.48714909682e-06 (LBP3x3 - Feature Number: 44)
+
+		Latent Semantic 5:
+			5.7956231454e-06 (LBP3x3 - Feature Number: 73)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 40)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 41)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 42)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 43)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 44)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 45)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 46)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 47)
+			5.7956231454e-06 (LBP3x3 - Feature Number: 48)
+
+
+	PART 2: Finding 5 closest images to 7931080032 (hearst_castle)  on model LBP3x3:
+		7931080032 (hearst_castle) : 0.0
+		3939810977 (aztec_ruins) : 0.0182251938091
+		2972869611 (angkor_wat) : 0.0230502009082
+		4622498763 (la_madeleine) : 0.024573646504
+		8020721629 (neues_museum) : 0.024787441928
+
+	PART 3:  5 closest Location to 7931080032 (hearst_castle)
+		cabrillo : 0.217732739276
+		christ_the_redeemer_rio : 0.218450259516
+		big_ben : 0.219715414193
+		berlin_cathedral : 0.220898621
+		casa_batllo : 0.223308319718

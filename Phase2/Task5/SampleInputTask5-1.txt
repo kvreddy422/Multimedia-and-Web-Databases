@@ -1,0 +1,210 @@
+
+For SVD decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			-2.11863167147e-08 (GLRLM - Feature Number: 30)
+			-2.92227255512e-08 (GLRLM - Feature Number: 8)
+			-5.66004975616e-08 (GLRLM - Feature Number: 19)
+			-5.71794991086e-08 (GLRLM - Feature Number: 41)
+			-4.66917490178e-07 (GLRLM - Feature Number: 23)
+			-4.90492865766e-07 (GLRLM - Feature Number: 34)
+			-4.90706353229e-07 (GLRLM - Feature Number: 12)
+			-4.96361840713e-07 (GLRLM - Feature Number: 1)
+			-5.00292474385e-07 (GLRLM3x3 - Feature Number: 206)
+			-5.09734662008e-07 (GLRLM3x3 - Feature Number: 250)
+
+		Latent Semantic 2:
+			-9.25750902878e-09 (GLRLM - Feature Number: 8)
+			1.95528522367e-08 (GLRLM - Feature Number: 30)
+			4.15286740771e-08 (GLRLM - Feature Number: 19)
+			4.22775668248e-08 (GLRLM - Feature Number: 41)
+			3.69089547935e-07 (GLRLM - Feature Number: 1)
+			3.90740099483e-07 (GLRLM - Feature Number: 23)
+			4.22408324006e-07 (GLRLM - Feature Number: 34)
+			4.22955288254e-07 (GLRLM - Feature Number: 12)
+			6.87132614943e-07 (GLRLM3x3 - Feature Number: 316)
+			7.87432761078e-07 (GLRLM3x3 - Feature Number: 338)
+
+		Latent Semantic 3:
+			-2.47116382943e-08 (GLRLM - Feature Number: 8)
+			-8.0768403298e-08 (GLRLM - Feature Number: 30)
+			-8.91934806827e-08 (GLRLM - Feature Number: 19)
+			-9.16947866042e-08 (GLRLM - Feature Number: 41)
+			-3.64467329758e-07 (GLRLM - Feature Number: 23)
+			-4.01586459012e-07 (GLRLM - Feature Number: 34)
+			-4.04198624075e-07 (GLRLM - Feature Number: 1)
+			-4.06120816332e-07 (GLRLM - Feature Number: 12)
+			4.06774743704e-07 (GLRLM3x3 - Feature Number: 382)
+			4.81189349336e-07 (GLRLM3x3 - Feature Number: 360)
+
+		Latent Semantic 4:
+			-1.50557031598e-08 (GLRLM3x3 - Feature Number: 96)
+			1.73896965041e-08 (GLRLM3x3 - Feature Number: 217)
+			-1.91984697628e-08 (GLRLM3x3 - Feature Number: 162)
+			3.14526724743e-08 (GLRLM3x3 - Feature Number: 206)
+			-3.4811040198e-08 (GLRLM3x3 - Feature Number: 129)
+			3.91816778547e-08 (GLRLM - Feature Number: 30)
+			4.16145948901e-08 (GLRLM3x3 - Feature Number: 250)
+			-4.29142870003e-08 (GLRLM3x3 - Feature Number: 107)
+			4.50898857204e-08 (GLRLM - Feature Number: 8)
+			6.37195239368e-08 (GLRLM3x3 - Feature Number: 195)
+
+		Latent Semantic 5:
+			6.82542720403e-10 (GLRLM - Feature Number: 8)
+			1.04841137973e-09 (GLRLM3x3 - Feature Number: 30)
+			7.0611450715e-09 (GLRLM3x3 - Feature Number: 19)
+			1.05578535179e-08 (GLRLM3x3 - Feature Number: 364)
+			-1.16894826098e-08 (GLRLM3x3 - Feature Number: 386)
+			1.69783107502e-08 (GLRLM3x3 - Feature Number: 327)
+			-1.76127695671e-08 (GLRLM - Feature Number: 34)
+			-2.45255764107e-08 (GLRLM3x3 - Feature Number: 375)
+			-2.49956812411e-08 (GLRLM - Feature Number: 12)
+			2.91409505046e-08 (GLRLM3x3 - Feature Number: 316)
+
+
+	PART 2:  5 closest Location to cabrillo
+		cabrillo : 8.33070930055e-16
+		la_madeleine : 0.0286192762563
+		angkor_wat : 0.0355394428212
+		acropolis_athens : 0.0368253395894
+		berlin_cathedral : 0.0376018103188
+
+For PCA decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			6.86383376535e-19 (LBP - Feature Number: 16)
+			-1.49375570872e-08 (GLRLM - Feature Number: 8)
+			2.01465637177e-08 (GLRLM - Feature Number: 30)
+			3.47252141686e-08 (GLRLM - Feature Number: 41)
+			3.52762176018e-08 (GLRLM - Feature Number: 19)
+			2.50042763603e-07 (GLRLM - Feature Number: 6)
+			2.65654034115e-07 (GLRLM - Feature Number: 28)
+			3.03485611496e-07 (GLRLM - Feature Number: 1)
+			3.32307852714e-07 (GLRLM - Feature Number: 23)
+			3.36198547838e-07 (GLRLM - Feature Number: 17)
+
+		Latent Semantic 2:
+			8.768486705e-18 (LBP - Feature Number: 16)
+			9.62141024891e-09 (GLRLM - Feature Number: 8)
+			6.99714659957e-08 (GLRLM - Feature Number: 30)
+			7.96190915318e-08 (GLRLM - Feature Number: 41)
+			9.12061325346e-08 (GLRLM - Feature Number: 19)
+			-1.30709966448e-07 (GLRLM3x3 - Feature Number: 382)
+			-1.82701449935e-07 (GLRLM3x3 - Feature Number: 360)
+			-2.05439890097e-07 (GLRLM3x3 - Feature Number: 393)
+			-2.1433057407e-07 (GLRLM3x3 - Feature Number: 371)
+			-5.24466287884e-07 (GLRLM3x3 - Feature Number: 338)
+
+		Latent Semantic 3:
+			3.37821489793e-19 (LBP - Feature Number: 16)
+			-5.29704616607e-09 (GLRLM - Feature Number: 8)
+			-2.05726365055e-08 (GLRLM - Feature Number: 41)
+			2.76171111323e-08 (GLRLM - Feature Number: 30)
+			-3.2209793301e-08 (GLRLM - Feature Number: 19)
+			-5.91636794683e-07 (GLRLM3x3 - Feature Number: 206)
+			-6.93570979212e-07 (GLRLM3x3 - Feature Number: 250)
+			-7.00326615974e-07 (GLRLM3x3 - Feature Number: 217)
+			-7.02894262227e-07 (GLRLM3x3 - Feature Number: 184)
+			-7.03557195712e-07 (GLRLM3x3 - Feature Number: 162)
+
+		Latent Semantic 4:
+			4.00947152794e-18 (LBP - Feature Number: 16)
+			-2.14533257203e-09 (GLRLM3x3 - Feature Number: 371)
+			9.6457958494e-09 (GLRLM - Feature Number: 19)
+			1.49047005455e-08 (GLRLM - Feature Number: 41)
+			1.71106747537e-08 (GLRLM3x3 - Feature Number: 393)
+			-2.22724080254e-08 (GLRLM3x3 - Feature Number: 382)
+			2.29168522139e-08 (GLRLM3x3 - Feature Number: 349)
+			2.70430821619e-08 (GLRLM3x3 - Feature Number: 327)
+			2.86308696783e-08 (GLRLM - Feature Number: 8)
+			-3.51729246824e-08 (GLRLM3x3 - Feature Number: 338)
+
+		Latent Semantic 5:
+			-5.248689553e-19 (LBP - Feature Number: 16)
+			3.17672985202e-08 (GLRLM - Feature Number: 41)
+			4.29776556197e-08 (GLRLM - Feature Number: 19)
+			-6.00688840408e-08 (GLRLM3x3 - Feature Number: 357)
+			-6.96545366096e-08 (GLRLM - Feature Number: 8)
+			8.26790157167e-08 (GLRLM - Feature Number: 30)
+			8.38903580701e-08 (GLRLM - Feature Number: 1)
+			1.71464407997e-07 (GLRLM - Feature Number: 23)
+			1.72414523417e-07 (GLRLM - Feature Number: 12)
+			1.81834870587e-07 (GLRLM - Feature Number: 34)
+
+
+	PART 2:  5 closest Location to cabrillo
+		cabrillo : 0.0
+		la_madeleine : 0.760378797756
+		berlin_cathedral : 0.841500777103
+		acropolis_athens : 0.898356988654
+		angkor_wat : 1.098724125
+
+For LDA decomposition
+	PART 1: 5 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			7.39977495064e-09 (GLRLM3x3 - Feature Number: 71)
+			7.39977495064e-09 (CN3x3 - Feature Number: 93)
+			7.39977495064e-09 (GLRLM3x3 - Feature Number: 162)
+			7.39977495064e-09 (CN3x3 - Feature Number: 91)
+			7.39977495064e-09 (GLRLM3x3 - Feature Number: 164)
+			7.39977495064e-09 (CN3x3 - Feature Number: 88)
+			7.39977495064e-09 (CN3x3 - Feature Number: 84)
+			7.39977495064e-09 (CN3x3 - Feature Number: 83)
+			7.39977495064e-09 (CN3x3 - Feature Number: 82)
+			7.39977495064e-09 (GLRLM3x3 - Feature Number: 166)
+
+		Latent Semantic 2:
+			1.649271117e-08 (GLRLM3x3 - Feature Number: 82)
+			1.649271117e-08 (GLRLM3x3 - Feature Number: 228)
+			1.649271117e-08 (CN3x3 - Feature Number: 65)
+			1.649271117e-08 (GLRLM3x3 - Feature Number: 17)
+			1.649271117e-08 (CN3x3 - Feature Number: 63)
+			1.649271117e-08 (CN3x3 - Feature Number: 60)
+			1.649271117e-08 (CN3x3 - Feature Number: 59)
+			1.649271117e-08 (GLRLM3x3 - Feature Number: 230)
+			1.649271117e-08 (CN3x3 - Feature Number: 57)
+			1.649271117e-08 (GLRLM3x3 - Feature Number: 232)
+
+		Latent Semantic 3:
+			1.05993346056e-08 (GLRLM3x3 - Feature Number: 396)
+			1.05993346056e-08 (GLRLM3x3 - Feature Number: 130)
+			1.05993346056e-08 (GLRLM - Feature Number: 10)
+			1.05993346056e-08 (GLRLM - Feature Number: 9)
+			1.05993346056e-08 (GLRLM - Feature Number: 8)
+			1.05993346056e-08 (GLRLM - Feature Number: 7)
+			1.05993346056e-08 (GLRLM - Feature Number: 6)
+			1.05993346056e-08 (GLRLM - Feature Number: 5)
+			1.05993346056e-08 (GLRLM3x3 - Feature Number: 131)
+			1.05993346056e-08 (GLRLM3x3 - Feature Number: 133)
+
+		Latent Semantic 4:
+			1.40448560399e-08 (GLRLM3x3 - Feature Number: 396)
+			1.40448560399e-08 (CN3x3 - Feature Number: 84)
+			1.40448560399e-08 (CN3x3 - Feature Number: 83)
+			1.40448560399e-08 (CN3x3 - Feature Number: 82)
+			1.40448560399e-08 (GLRLM3x3 - Feature Number: 119)
+			1.40448560399e-08 (CN3x3 - Feature Number: 80)
+			1.40448560399e-08 (GLRLM3x3 - Feature Number: 120)
+			1.40448560399e-08 (GLRLM3x3 - Feature Number: 122)
+			1.40448560399e-08 (CN3x3 - Feature Number: 77)
+			1.40448560399e-08 (GLRLM3x3 - Feature Number: 123)
+
+		Latent Semantic 5:
+			1.29572374237e-08 (GLRLM3x3 - Feature Number: 34)
+			1.29572374237e-08 (CN3x3 - Feature Number: 50)
+			1.29572374237e-08 (GLRLM3x3 - Feature Number: 192)
+			1.29572374237e-08 (CN3x3 - Feature Number: 48)
+			1.29572374237e-08 (CN3x3 - Feature Number: 47)
+			1.29572374237e-08 (CN3x3 - Feature Number: 46)
+			1.29572374237e-08 (GLRLM3x3 - Feature Number: 73)
+			1.29572374237e-08 (CN3x3 - Feature Number: 44)
+			1.29572374237e-08 (CN3x3 - Feature Number: 43)
+			1.29572374237e-08 (GLRLM3x3 - Feature Number: 72)
+
+
+	PART 2:  5 closest Location to cabrillo
+		cabrillo : 0.0
+		albert_memorial : 0.0374719649309
+		acropolis_athens : 0.0453182578159
+		cn_tower : 0.0466925087264
+		berlin_cathedral : 0.0487019940346

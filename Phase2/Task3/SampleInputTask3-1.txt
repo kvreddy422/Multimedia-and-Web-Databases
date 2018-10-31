@@ -1,0 +1,267 @@
+
+For SVD decomposition
+	PART 1: 6 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			-9.83882010609e-08 (GLRLM - Feature Number: 15)
+			-1.14492671656e-07 (GLRLM - Feature Number: 37)
+			-2.59501616e-07 (GLRLM - Feature Number: 26)
+			-2.63165549325e-07 (GLRLM - Feature Number: 4)
+			-2.42933487282e-06 (GLRLM - Feature Number: 22)
+			-2.48129302324e-06 (GLRLM - Feature Number: 44)
+			-2.51909918122e-06 (GLRLM - Feature Number: 33)
+			-2.52072653471e-06 (GLRLM - Feature Number: 11)
+			-1.33554898655e-05 (GLRLM - Feature Number: 39)
+			-1.34505029069e-05 (GLRLM - Feature Number: 17)
+
+		Latent Semantic 2:
+			1.05218720365e-07 (GLRLM - Feature Number: 15)
+			1.63397203434e-07 (GLRLM - Feature Number: 37)
+			2.21591728549e-07 (GLRLM - Feature Number: 26)
+			2.26549736428e-07 (GLRLM - Feature Number: 4)
+			1.68417249175e-06 (GLRLM - Feature Number: 18)
+			2.89535700232e-06 (GLRLM - Feature Number: 22)
+			3.00364651158e-06 (GLRLM - Feature Number: 33)
+			3.00671936915e-06 (GLRLM - Feature Number: 11)
+			3.02987965637e-06 (GLRLM - Feature Number: 44)
+			8.61327289065e-06 (GLRLM - Feature Number: 17)
+
+		Latent Semantic 3:
+			-1.6160691323e-07 (GLRLM - Feature Number: 37)
+			-1.7903554615e-07 (GLRLM - Feature Number: 15)
+			-3.81860863041e-07 (GLRLM - Feature Number: 26)
+			-4.00253388933e-07 (GLRLM - Feature Number: 4)
+			-8.43825057451e-06 (GLRLM - Feature Number: 44)
+			-8.57840865572e-06 (GLRLM - Feature Number: 22)
+			-8.60961641502e-06 (GLRLM - Feature Number: 33)
+			-8.64556439025e-06 (GLRLM - Feature Number: 11)
+			-1.11334245295e-05 (GLRLM - Feature Number: 17)
+			-1.15215876932e-05 (GLRLM - Feature Number: 39)
+
+		Latent Semantic 4:
+			-3.97219611275e-08 (GLRLM - Feature Number: 15)
+			1.61189131955e-07 (GLRLM - Feature Number: 4)
+			1.65581197857e-07 (GLRLM - Feature Number: 26)
+			2.56063956674e-07 (GLRLM - Feature Number: 37)
+			2.00473646669e-06 (GLRLM - Feature Number: 44)
+			2.14966303001e-06 (GLRLM - Feature Number: 17)
+			2.15605963827e-06 (GLRLM - Feature Number: 7)
+			2.4195615905e-06 (GLRLM - Feature Number: 22)
+			2.53627384512e-06 (GLRLM - Feature Number: 33)
+			2.54707217264e-06 (GLRLM - Feature Number: 11)
+
+		Latent Semantic 5:
+			-3.3481451382e-07 (GLRLM - Feature Number: 4)
+			-3.56670104062e-07 (GLRLM - Feature Number: 26)
+			7.73049311186e-07 (GLRLM - Feature Number: 28)
+			9.36090306673e-07 (GLRLM - Feature Number: 15)
+			9.79152046738e-07 (GLRLM - Feature Number: 6)
+			-1.21305995637e-06 (GLRLM - Feature Number: 37)
+			-2.54217548654e-06 (GLRLM - Feature Number: 22)
+			-2.54983796105e-06 (GLRLM - Feature Number: 44)
+			-2.61369621562e-06 (GLRLM - Feature Number: 33)
+			-2.62237973931e-06 (GLRLM - Feature Number: 11)
+
+		Latent Semantic 6:
+			-8.85756862034e-07 (GLRLM - Feature Number: 15)
+			-8.9831838139e-07 (GLRLM - Feature Number: 37)
+			-1.15453724068e-06 (GLRLM - Feature Number: 26)
+			-1.23941172242e-06 (GLRLM - Feature Number: 4)
+			-3.4206321181e-05 (GLRLM - Feature Number: 22)
+			-3.51343211709e-05 (GLRLM - Feature Number: 44)
+			-3.54860818073e-05 (GLRLM - Feature Number: 39)
+			-3.583649109e-05 (GLRLM - Feature Number: 17)
+			-3.59309694852e-05 (GLRLM - Feature Number: 28)
+			-3.61539913287e-05 (GLRLM - Feature Number: 6)
+
+
+	PART 2: Finding 5 closest images to 2614112752 (christ_the_redeemer_rio) on model GLRLM:
+		2614112752 (christ_the_redeemer_rio)  : 0.0
+		4308678217 (acropolis_athens)  : 0.00313351555766
+		2433680752 (agra_fort)  : 0.00444762536384
+		6151088587 (cn_tower)  : 0.00488899574457
+		9282559098 (castillo_de_san_marcos)  : 0.00493561308714
+
+	PART 3:  5 closest Location to 2614112752 (christ_the_redeemer_rio)
+		castillo_de_san_marcos : 0.0250727912337
+		agra_fort : 0.0273575803661
+		christ_the_redeemer_rio : 0.0277104143763
+		cabrillo : 0.0280762996972
+		pont_alexandre_iii : 0.0281063348163
+
+For PCA decomposition
+	PART 1: 6 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			2.73499850366e-09 (GLRLM - Feature Number: 15)
+			-1.86876984417e-08 (GLRLM - Feature Number: 26)
+			-2.10574726626e-08 (GLRLM - Feature Number: 4)
+			4.71308006128e-08 (GLRLM - Feature Number: 37)
+			6.56635965752e-08 (GLRLM - Feature Number: 22)
+			8.5986367535e-08 (GLRLM - Feature Number: 11)
+			8.94221810527e-08 (GLRLM - Feature Number: 33)
+			1.42603242321e-07 (GLRLM - Feature Number: 44)
+			-3.3430144042e-06 (GLRLM - Feature Number: 39)
+			-3.54904767976e-06 (GLRLM - Feature Number: 17)
+
+		Latent Semantic 2:
+			2.39752162476e-07 (GLRLM - Feature Number: 37)
+			2.42960145665e-07 (GLRLM - Feature Number: 15)
+			5.10069685911e-07 (GLRLM - Feature Number: 26)
+			5.35905876195e-07 (GLRLM - Feature Number: 4)
+			8.35990236209e-06 (GLRLM - Feature Number: 22)
+			8.402026944e-06 (GLRLM - Feature Number: 44)
+			8.49826908702e-06 (GLRLM - Feature Number: 33)
+			8.53072156104e-06 (GLRLM - Feature Number: 11)
+			2.33488385131e-05 (GLRLM - Feature Number: 39)
+			2.34288678621e-05 (GLRLM - Feature Number: 17)
+
+		Latent Semantic 3:
+			1.31393247392e-08 (GLRLM - Feature Number: 15)
+			6.92487727239e-08 (GLRLM - Feature Number: 37)
+			9.63183884225e-08 (GLRLM - Feature Number: 4)
+			1.05272409567e-07 (GLRLM - Feature Number: 26)
+			4.13515604727e-06 (GLRLM - Feature Number: 44)
+			4.32519460293e-06 (GLRLM - Feature Number: 33)
+			4.33618959582e-06 (GLRLM - Feature Number: 11)
+			4.38223611115e-06 (GLRLM - Feature Number: 22)
+			-6.9944859462e-06 (GLRLM - Feature Number: 28)
+			-7.01317967262e-06 (GLRLM - Feature Number: 6)
+
+		Latent Semantic 4:
+			-3.02205045727e-08 (GLRLM - Feature Number: 15)
+			1.67823459979e-07 (GLRLM - Feature Number: 4)
+			1.68586842066e-07 (GLRLM - Feature Number: 26)
+			2.52112688989e-07 (GLRLM - Feature Number: 37)
+			1.80855572224e-06 (GLRLM - Feature Number: 44)
+			2.19562935833e-06 (GLRLM - Feature Number: 22)
+			2.32395841284e-06 (GLRLM - Feature Number: 33)
+			2.3360137183e-06 (GLRLM - Feature Number: 11)
+			4.52628143986e-06 (GLRLM - Feature Number: 17)
+			6.24943222163e-06 (GLRLM - Feature Number: 28)
+
+		Latent Semantic 5:
+			3.3963318628e-07 (GLRLM - Feature Number: 4)
+			3.55954005514e-07 (GLRLM - Feature Number: 26)
+			-9.37463517602e-07 (GLRLM - Feature Number: 15)
+			1.21694242339e-06 (GLRLM - Feature Number: 37)
+			1.30661842269e-06 (GLRLM - Feature Number: 6)
+			1.51018944331e-06 (GLRLM - Feature Number: 28)
+			2.57125324508e-06 (GLRLM - Feature Number: 22)
+			2.58119306725e-06 (GLRLM - Feature Number: 44)
+			2.63409643483e-06 (GLRLM - Feature Number: 33)
+			2.64657690849e-06 (GLRLM - Feature Number: 11)
+
+		Latent Semantic 6:
+			-8.79438590754e-07 (GLRLM - Feature Number: 15)
+			-9.07590822732e-07 (GLRLM - Feature Number: 37)
+			-1.15156679825e-06 (GLRLM - Feature Number: 26)
+			-1.23888886191e-06 (GLRLM - Feature Number: 4)
+			-3.43102072969e-05 (GLRLM - Feature Number: 22)
+			-3.52389373974e-05 (GLRLM - Feature Number: 44)
+			-3.63304404182e-05 (GLRLM - Feature Number: 39)
+			-3.65656656979e-05 (GLRLM - Feature Number: 17)
+			-3.66642895463e-05 (GLRLM - Feature Number: 28)
+			-3.68885382304e-05 (GLRLM - Feature Number: 6)
+
+
+	PART 2: Finding 5 closest images to 2614112752 (christ_the_redeemer_rio)  on model GLRLM:
+		2614112752 (christ_the_redeemer_rio) : 0.0
+		6151088587 (cn_tower) : 0.104115035776
+		3493365324 (cabrillo) : 0.115916394078
+		4501766904 (castillo_de_san_marcos) : 0.140060460162
+		6970821004 (cabrillo) : 0.146253971622
+
+	PART 3:  5 closest Location to 2614112752 (christ_the_redeemer_rio)
+		castillo_de_san_marcos : 0.804977056107
+		chichen_itza : 0.826812916598
+		acropolis_athens : 0.847424520375
+		colosseum : 0.855069090782
+		montezuma_castle : 0.856088644744
+
+For LDA decomposition
+	PART 1: 6 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			6.74108828129e-06 (GLRLM - Feature Number: 44)
+			6.74108828129e-06 (GLRLM - Feature Number: 21)
+			6.74108828129e-06 (GLRLM - Feature Number: 20)
+			6.74108828129e-06 (GLRLM - Feature Number: 19)
+			6.74108828129e-06 (GLRLM - Feature Number: 18)
+			6.74108828129e-06 (GLRLM - Feature Number: 17)
+			6.74108828129e-06 (GLRLM - Feature Number: 16)
+			6.74108828129e-06 (GLRLM - Feature Number: 15)
+			6.74108828129e-06 (GLRLM - Feature Number: 14)
+			6.74108828129e-06 (GLRLM - Feature Number: 22)
+
+		Latent Semantic 2:
+			6.73201206377e-06 (GLRLM - Feature Number: 44)
+			6.73201206377e-06 (GLRLM - Feature Number: 21)
+			6.73201206377e-06 (GLRLM - Feature Number: 20)
+			6.73201206377e-06 (GLRLM - Feature Number: 19)
+			6.73201206377e-06 (GLRLM - Feature Number: 18)
+			6.73201206377e-06 (GLRLM - Feature Number: 17)
+			6.73201206377e-06 (GLRLM - Feature Number: 16)
+			6.73201206377e-06 (GLRLM - Feature Number: 15)
+			6.73201206377e-06 (GLRLM - Feature Number: 14)
+			6.73201206377e-06 (GLRLM - Feature Number: 13)
+
+		Latent Semantic 3:
+			6.70043686848e-06 (GLRLM - Feature Number: 44)
+			6.70043686848e-06 (GLRLM - Feature Number: 21)
+			6.70043686848e-06 (GLRLM - Feature Number: 20)
+			6.70043686848e-06 (GLRLM - Feature Number: 19)
+			6.70043686848e-06 (GLRLM - Feature Number: 18)
+			6.70043686848e-06 (GLRLM - Feature Number: 17)
+			6.70043686848e-06 (GLRLM - Feature Number: 16)
+			6.70043686848e-06 (GLRLM - Feature Number: 15)
+			6.70043686848e-06 (GLRLM - Feature Number: 14)
+			6.70043686848e-06 (GLRLM - Feature Number: 22)
+
+		Latent Semantic 4:
+			6.53406863386e-06 (GLRLM - Feature Number: 44)
+			6.53406863386e-06 (GLRLM - Feature Number: 21)
+			6.53406863386e-06 (GLRLM - Feature Number: 20)
+			6.53406863386e-06 (GLRLM - Feature Number: 19)
+			6.53406863386e-06 (GLRLM - Feature Number: 18)
+			6.53406863386e-06 (GLRLM - Feature Number: 17)
+			6.53406863386e-06 (GLRLM - Feature Number: 16)
+			6.53406863386e-06 (GLRLM - Feature Number: 15)
+			6.53406863386e-06 (GLRLM - Feature Number: 14)
+			6.53406863386e-06 (GLRLM - Feature Number: 22)
+
+		Latent Semantic 5:
+			6.91352562153e-06 (GLRLM - Feature Number: 44)
+			6.91352562153e-06 (GLRLM - Feature Number: 22)
+			6.91352562153e-06 (GLRLM - Feature Number: 21)
+			6.91352562153e-06 (GLRLM - Feature Number: 19)
+			6.91352562153e-06 (GLRLM - Feature Number: 18)
+			6.91352562153e-06 (GLRLM - Feature Number: 17)
+			6.91352562153e-06 (GLRLM - Feature Number: 16)
+			6.91352562153e-06 (GLRLM - Feature Number: 15)
+			6.91352562153e-06 (GLRLM - Feature Number: 2)
+			6.91352562153e-06 (GLRLM - Feature Number: 14)
+
+		Latent Semantic 6:
+			6.77304868467e-06 (GLRLM - Feature Number: 44)
+			6.77304868467e-06 (GLRLM - Feature Number: 21)
+			6.77304868467e-06 (GLRLM - Feature Number: 20)
+			6.77304868467e-06 (GLRLM - Feature Number: 19)
+			6.77304868467e-06 (GLRLM - Feature Number: 18)
+			6.77304868467e-06 (GLRLM - Feature Number: 17)
+			6.77304868467e-06 (GLRLM - Feature Number: 16)
+			6.77304868467e-06 (GLRLM - Feature Number: 15)
+			6.77304868467e-06 (GLRLM - Feature Number: 14)
+			6.77304868467e-06 (GLRLM - Feature Number: 22)
+
+
+	PART 2: Finding 5 closest images to 2614112752 (christ_the_redeemer_rio)  on model GLRLM:
+		2614112752 (christ_the_redeemer_rio) : 0.0
+		4501766904 (castillo_de_san_marcos) : 0.0125123190733
+		8027049091 (cabrillo) : 0.0216057621978
+		3885467754 (colosseum) : 0.0255349768136
+		10658342883 (hearst_castle) : 0.0287747962279
+
+	PART 3:  5 closest Location to 2614112752 (christ_the_redeemer_rio)
+		chichen_itza : 0.4518041513
+		civic_center_san_francisco : 0.478284273656
+		acropolis_athens : 0.478898897645
+		hearst_castle : 0.482964890921
+		montezuma_castle : 0.483518841702

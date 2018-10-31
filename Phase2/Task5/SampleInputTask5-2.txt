@@ -1,0 +1,174 @@
+
+For SVD decomposition
+	PART 1: 4 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			-2.18411194359e-08 (GLRLM - Feature Number: 30)
+			-2.23774534798e-08 (GLRLM - Feature Number: 8)
+			-5.12077524493e-08 (GLRLM - Feature Number: 41)
+			-5.23495939178e-08 (GLRLM - Feature Number: 19)
+			-4.34646693837e-07 (GLRLM3x3 - Feature Number: 52)
+			-4.47137881316e-07 (GLRLM - Feature Number: 23)
+			-4.62362415811e-07 (GLRLM - Feature Number: 12)
+			-4.6296327418e-07 (GLRLM - Feature Number: 34)
+			-4.73542521774e-07 (GLRLM - Feature Number: 1)
+			-5.07328630794e-07 (GLRLM3x3 - Feature Number: 250)
+
+		Latent Semantic 2:
+			-1.28299012469e-09 (GLRLM - Feature Number: 41)
+			3.23652913244e-09 (GLRLM - Feature Number: 30)
+			8.25497767212e-09 (GLRLM - Feature Number: 19)
+			8.49525800683e-09 (GLRLM - Feature Number: 8)
+			4.34306369806e-07 (GLRLM - Feature Number: 23)
+			4.60897051306e-07 (GLRLM - Feature Number: 1)
+			4.67533298923e-07 (GLRLM - Feature Number: 34)
+			4.71044370359e-07 (GLRLM - Feature Number: 12)
+			7.66194427203e-07 (GLRLM3x3 - Feature Number: 272)
+			7.88828841922e-07 (GLRLM - Feature Number: 39)
+
+		Latent Semantic 3:
+			-2.55457236361e-08 (GLRLM3x3 - Feature Number: 162)
+			2.76170479437e-08 (GLRLM3x3 - Feature Number: 173)
+			2.83350603551e-08 (GLRLM3x3 - Feature Number: 118)
+			4.08047291419e-08 (GLRLM - Feature Number: 30)
+			6.55386995746e-08 (GLRLM3x3 - Feature Number: 107)
+			8.40659361687e-08 (GLRLM - Feature Number: 8)
+			8.5405772677e-08 (GLRLM3x3 - Feature Number: 129)
+			8.56719413271e-08 (GLRLM3x3 - Feature Number: 206)
+			1.08544327013e-07 (GLRLM - Feature Number: 41)
+			-1.18289943813e-07 (GLRLM3x3 - Feature Number: 228)
+
+		Latent Semantic 4:
+			-5.4801306127e-09 (GLRLM - Feature Number: 30)
+			-1.5890976112e-08 (GLRLM - Feature Number: 41)
+			-2.15054119411e-08 (GLRLM - Feature Number: 19)
+			-2.48051316411e-08 (GLRLM - Feature Number: 8)
+			1.5593458982e-07 (GLRLM - Feature Number: 23)
+			1.89264742817e-07 (GLRLM - Feature Number: 12)
+			1.94342842686e-07 (GLRLM - Feature Number: 34)
+			1.96126328476e-07 (GLRLM - Feature Number: 1)
+			-8.24020609622e-07 (GLRLM - Feature Number: 28)
+			-9.44329802732e-07 (GLRLM - Feature Number: 17)
+
+
+	PART 2:  5 closest Location to arc_de_triomphe
+		arc_de_triomphe : 1.46052133797e-16
+		chichen_itza : 0.012942982133
+		angkor_wat : 0.0140631927612
+		la_madeleine : 0.0281974817615
+		colosseum : 0.0290784755822
+
+For PCA decomposition
+	PART 1: 4 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			1.08569331129e-09 (GLRLM - Feature Number: 41)
+			5.01893160091e-09 (GLRLM - Feature Number: 30)
+			1.23015020564e-08 (GLRLM - Feature Number: 19)
+			1.31346825697e-08 (GLRLM - Feature Number: 8)
+			4.82378101498e-07 (GLRLM - Feature Number: 23)
+			5.08067412229e-07 (GLRLM - Feature Number: 1)
+			5.16207028646e-07 (GLRLM3x3 - Feature Number: 272)
+			5.19621283733e-07 (GLRLM - Feature Number: 34)
+			5.23147634502e-07 (GLRLM - Feature Number: 12)
+			5.84922325192e-07 (GLRLM3x3 - Feature Number: 294)
+
+		Latent Semantic 2:
+			-2.61401021965e-08 (GLRLM - Feature Number: 30)
+			-4.93052989008e-08 (GLRLM - Feature Number: 8)
+			-5.82392577423e-08 (GLRLM - Feature Number: 41)
+			-6.78899321448e-08 (GLRLM - Feature Number: 19)
+			6.57780361058e-07 (GLRLM3x3 - Feature Number: 52)
+			-7.03194318678e-07 (GLRLM - Feature Number: 23)
+			-7.30414452181e-07 (GLRLM - Feature Number: 1)
+			-7.4365500387e-07 (GLRLM - Feature Number: 34)
+			-7.44361942536e-07 (GLRLM - Feature Number: 12)
+			7.83076426468e-07 (GLRLM3x3 - Feature Number: 360)
+
+		Latent Semantic 3:
+			-1.60689373608e-08 (GLRLM - Feature Number: 30)
+			-2.7545911037e-08 (GLRLM - Feature Number: 8)
+			-4.73462407692e-08 (GLRLM - Feature Number: 41)
+			-4.93085896165e-08 (GLRLM - Feature Number: 19)
+			-8.96947923131e-07 (GLRLM3x3 - Feature Number: 250)
+			-9.51713230941e-07 (GLRLM3x3 - Feature Number: 228)
+			-1.0291749657e-06 (GLRLM - Feature Number: 23)
+			-1.03626733999e-06 (GLRLM3x3 - Feature Number: 261)
+			-1.05313497505e-06 (GLRLM3x3 - Feature Number: 30)
+			-1.05804473014e-06 (GLRLM3x3 - Feature Number: 206)
+
+		Latent Semantic 4:
+			-1.38267086096e-08 (GLRLM3x3 - Feature Number: 314)
+			2.51648031175e-08 (GLRLM3x3 - Feature Number: 111)
+			-3.51151154735e-08 (GLRLM - Feature Number: 8)
+			-3.9155415154e-08 (GLRLM - Feature Number: 30)
+			-4.94964641519e-08 (GLRLM3x3 - Feature Number: 221)
+			-5.67276421552e-08 (GLRLM - Feature Number: 41)
+			-8.62998144026e-08 (GLRLM - Feature Number: 19)
+			8.70928952243e-08 (GLRLM3x3 - Feature Number: 83)
+			8.98955389851e-08 (GLRLM3x3 - Feature Number: 72)
+			-9.47915430474e-08 (GLRLM3x3 - Feature Number: 309)
+
+
+	PART 2:  5 closest Location to arc_de_triomphe
+		arc_de_triomphe : 0.0
+		angkor_wat : 0.304536498405
+		colosseum : 0.553642353663
+		la_madeleine : 0.574504014253
+		chichen_itza : 0.717649767614
+
+For LDA decomposition
+	PART 1: 4 Latent Semantic (in terms of 10 most strongest features):
+		Latent Semantic 1:
+			1.12509421961e-08 (GLRLM3x3 - Feature Number: 208)
+			1.12509421961e-08 (CN3x3 - Feature Number: 35)
+			1.12509421961e-08 (GLRLM3x3 - Feature Number: 171)
+			1.12509421961e-08 (CN3x3 - Feature Number: 32)
+			1.12509421961e-08 (CN3x3 - Feature Number: 28)
+			1.12509421961e-08 (GLRLM3x3 - Feature Number: 172)
+			1.12509421961e-08 (CN3x3 - Feature Number: 26)
+			1.12509421961e-08 (GLRLM3x3 - Feature Number: 173)
+			1.12509421961e-08 (CN3x3 - Feature Number: 24)
+			1.12509421961e-08 (GLRLM3x3 - Feature Number: 174)
+
+		Latent Semantic 2:
+			1.04051619176e-08 (GLRLM3x3 - Feature Number: 396)
+			1.04051619176e-08 (GLRLM - Feature Number: 6)
+			1.04051619176e-08 (GLRLM - Feature Number: 5)
+			1.04051619176e-08 (GLRLM3x3 - Feature Number: 107)
+			1.04051619176e-08 (GLRLM - Feature Number: 2)
+			1.04051619176e-08 (GLRLM - Feature Number: 1)
+			1.04051619176e-08 (CN3x3 - Feature Number: 99)
+			1.04051619176e-08 (GLRLM3x3 - Feature Number: 108)
+			1.04051619176e-08 (GLRLM3x3 - Feature Number: 109)
+			1.04051619176e-08 (GLRLM3x3 - Feature Number: 111)
+
+		Latent Semantic 3:
+			6.12125677114e-09 (GLRLM3x3 - Feature Number: 396)
+			6.12125677114e-09 (GLRLM3x3 - Feature Number: 137)
+			6.12125677114e-09 (GLRLM3x3 - Feature Number: 138)
+			6.12125677114e-09 (CN3x3 - Feature Number: 91)
+			6.12125677114e-09 (GLRLM3x3 - Feature Number: 139)
+			6.12125677114e-09 (CN3x3 - Feature Number: 88)
+			6.12125677114e-09 (GLRLM3x3 - Feature Number: 140)
+			6.12125677114e-09 (CN3x3 - Feature Number: 86)
+			6.12125677114e-09 (CN3x3 - Feature Number: 85)
+			6.12125677114e-09 (CN3x3 - Feature Number: 84)
+
+		Latent Semantic 4:
+			1.23616812851e-08 (CN3x3 - Feature Number: 29)
+			1.23616812851e-08 (GLRLM3x3 - Feature Number: 232)
+			1.23616812851e-08 (CN3x3 - Feature Number: 98)
+			1.23616812851e-08 (CN3x3 - Feature Number: 97)
+			1.23616812851e-08 (CN3x3 - Feature Number: 96)
+			1.23616812851e-08 (CN3x3 - Feature Number: 95)
+			1.23616812851e-08 (GLRLM3x3 - Feature Number: 78)
+			1.23616812851e-08 (CN3x3 - Feature Number: 92)
+			1.23616812851e-08 (CN3x3 - Feature Number: 90)
+			1.23616812851e-08 (GLRLM3x3 - Feature Number: 234)
+
+
+	PART 2:  5 closest Location to arc_de_triomphe
+		arc_de_triomphe : 0.0
+		angkor_wat : 0.0248385507476
+		colosseum : 0.0270332743764
+		la_madeleine : 0.0352027589649
+		berlin_cathedral : 0.0436614720411
